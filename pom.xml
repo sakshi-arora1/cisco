@@ -38,6 +38,7 @@
         <module>parent</module>
         <module>ui.apps</module>
         <module>core</module>
+        <module>all</module>
     </modules>
 
     <dependencies>
